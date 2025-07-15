@@ -11,7 +11,7 @@ Oracle 23C 概念手册中文版
 
 # 2. 文档密码
 
-文档打开密码为：`P@ssW0rd_119554488`，捐赠 `9.9+`（留邮箱与书名）可**去除密码、减少及淡化水印**。
+文档打开密码为：`P@ssW0rd_119554488`，捐赠 `12.9+`（留邮箱与书名）可**去除密码、减少及淡化水印**。
 
 # 3. 仓库地址
 ## 3.1 本书地址
@@ -25,7 +25,7 @@ Oracle 23C 概念手册中文版
 |--------|--------|--------|--------|
 |《流畅的Python-第2版》|《Fluent Python, 2nd Ed》|已完稿|[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)|
 |《Go Cookbook（中文版）》|《Go Cookbook》|已完稿|[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)|
-|《学习Go语言-第2版》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
+|《学习Go语言-第2版》|《Learning Go, 2nd Ed》|已完稿|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
 |《Oracle 23c 数据库概念手册}》|《Oracle 23c Database Concepts》|已完稿|[https://github.com/chenyz1984/OraConceptCN](https://github.com/chenyz1984/OraConceptCN)|
 
 
@@ -35,7 +35,7 @@ Oracle 23C 概念手册中文版
 
 # 5. 捐赠激励
 
-码字不易，如果您觉得内容还不错，不妨捐赠一杯瑞幸吧（留邮箱、书名），以示激励。捐赠`9.9+`，可**去除密码、减少及淡化水印**。
+码字不易，如果您觉得内容还不错，不妨捐赠一杯瑞幸吧（留邮箱、书名），以示激励。捐赠`12.9+`，可**去除密码、减少及淡化水印**。
 
 <img src="https://github.com/user-attachments/assets/5bfe3425-1cb8-4726-8d2b-373368f01f11" alt="wechat" width="300" height="300" />
 <img src="https://github.com/user-attachments/assets/4f5fe6d6-d7d5-4b36-9a73-72928f687276" alt="alipay" width="300" height="300" />
